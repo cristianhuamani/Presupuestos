@@ -1,0 +1,19 @@
+D:\Proyecto Eduardo\ControlPresupuesto.Entity\bin\Debug\ControlPresupuesto.Entity.dll
+D:\Proyecto Eduardo\ControlPresupuesto.Entity\bin\Debug\ControlPresupuesto.Entity.pdb
+D:\Proyecto Eduardo\ControlPresupuesto.Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Eduardo\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.dll
+D:\Proyecto Eduardo\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Entity\bin\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Entity\bin\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Entity\bin\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Entity\bin\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Entity\bin\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Entity\bin\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Entity\obj\Debug\ControlPresupuesto.Entity.pdb

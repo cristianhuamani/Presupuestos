@@ -1,0 +1,1 @@
+HORA:19:55:58;	ORIGEN:System.Windows.Forms;	RUTA:ControlPresupuesto.Front.Inicio.Main()\MerchFront.Formularios.MdiPrincipal.registroDeClientesToolStripMenuItem_Click();	DESCRIPCION:[Un formulario que no es de nivel superior no se puede mostrar como un cuadro de diálogo modal. Quite el formulario de los formularios primarios que lo contengan antes de llamar a showDialog.]

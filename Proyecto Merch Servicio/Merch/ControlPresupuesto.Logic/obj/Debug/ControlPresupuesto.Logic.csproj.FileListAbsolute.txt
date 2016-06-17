@@ -1,0 +1,40 @@
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Logic.dll
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Logic.pdb
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Data.dll
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Entity.dll
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\DogoHelp.dll
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Entity.pdb
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Data.pdb
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.dll
+D:\Proyecto Eduardo\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.pdb
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Logic.dll
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Logic.pdb
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Data.dll
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\DogoHelp.dll
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Data.pdb
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.dll
+C:\Users\Eduardo\Desktop\Proyecto Eduardo\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Logic.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Logic.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Data.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\bin\Debug\DogoHelp.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Data.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Logic.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Logic.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Data.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\bin\Debug\DogoHelp.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\bin\Debug\ControlPresupuesto.Data.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\ControlPresupuesto.Logic\obj\Debug\ControlPresupuesto.Logic.pdb

@@ -1,0 +1,56 @@
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmCampanC.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmCampanDetalle.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmClave.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmCliente.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmClienteDetalle.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmDocumento.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmDocumentoDetalle.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\ControlPresupuesto.Front.FrmLogin.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmPartida.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmPersonal.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmPersonalDetalle.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmUsuarios.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Formularios.MdiPrincipal.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\MerchFront.exe.config
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\MerchFront.exe
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\MerchFront.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\ControlPresupuesto.Logic.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\DogoHelp.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\ControlPresupuesto.Data.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\ControlPresupuesto.Logic.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\bin\Debug\ControlPresupuesto.Data.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.exe
+C:\Users\Eduardo\Desktop\Proyecto Merch\Merch\MerchFront\obj\Debug\MerchFront.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\MerchFront.exe.config
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.exe
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\MerchFront.exe
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\MerchFront.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\ControlPresupuesto.Entity.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\ControlPresupuesto.Logic.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\DogoHelp.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\ControlPresupuesto.Data.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\ControlPresupuesto.Entity.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\ControlPresupuesto.Logic.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\bin\Debug\ControlPresupuesto.Data.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmCampanC.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmCampanDetalle.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmClave.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmCliente.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmClienteDetalle.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmDocumento.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmDocumentoDetalle.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\ControlPresupuesto.Front.FrmLogin.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmPartida.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmPersonal.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmPersonalDetalle.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.FrmUsuarios.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Formularios.MdiPrincipal.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchFront\obj\Debug\MerchFront.csproj.GenerateResource.Cache

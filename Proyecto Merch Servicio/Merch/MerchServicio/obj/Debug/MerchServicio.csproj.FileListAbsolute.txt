@@ -1,0 +1,7 @@
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchServicio\bin\MerchServicio.dll.config
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchServicio\bin\MerchServicio.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchServicio\bin\MerchServicio.pdb
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchServicio\bin\DogoHelp.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchServicio\obj\Debug\MerchServicio.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchServicio\obj\Debug\MerchServicio.dll
+C:\Users\Eduardo\Desktop\Proyecto Merch Servicio\Merch\MerchServicio\obj\Debug\MerchServicio.pdb
